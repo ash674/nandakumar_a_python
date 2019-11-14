@@ -16,9 +16,9 @@ while gameVars.player is False:
 	print("*********************************\n")
 	
 	gameVars.player = input("choose rock, paper or scissors\n")
-
-	print("computer chose ", gameVars.computer, "\n")
-	print("player choose ", gameVars.player, "\n")
+	if(gameVars.player != "quit"):
+		print("computer chose ", gameVars.computer, "\n")
+		print("player choose ", gameVars.player, "\n")
 	# handle all lives lost for gameVars.player or AI
 	comparison.compareweapons(gameVars.computer,gameVars.player) 
 	if gameVars.player_lives is 0:
