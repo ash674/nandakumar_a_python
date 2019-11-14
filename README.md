@@ -4,9 +4,9 @@
 This is just a simple Rock paper scissors game made in python. Pick your weapon and play against the computer - you woll only geta virtual sting if you lose
 
 ## Prequisites :
-All you need is [python3!][https://www.python.org/downloads/] to play
+All you need is [python3!](https://www.python.org/downloads/) to play
 
-clone the project navigate to the correct directory - ~~cd directory name~~ - and run the ~~game.py~~ file in a python terminal window for macOS/linux
+clone the project navigate to the correct directory - cd directory name - and run the [nandakumar_a_python/game.py](game.py) file in a python terminal window for macOS/linux
 
 ## Rules
 The rules are the same as the classic game :
